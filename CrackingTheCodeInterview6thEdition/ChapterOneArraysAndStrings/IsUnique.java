@@ -5,7 +5,7 @@ class Main {
 
     //If the size of the array is greater than 256
     //By default the string will be non-unique as it will be guarantee to have the same character
-    if (inpuString.length() > 256) {
+    if (inputString.length() > 256) {
       return false
     }
 
